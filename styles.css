@@ -3,6 +3,8 @@
     background-color: purple;
     width: 200px;
     padding: 10px;
-    font-size: 20px;
     color: white;
+}
+.heading{
+	font-size: 20px;
 }
